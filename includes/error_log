@@ -1,0 +1,20 @@
+[17-Feb-2025 14:56:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:56:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 15:00:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 15:11:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6

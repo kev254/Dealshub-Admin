@@ -1,0 +1,1687 @@
+[17-Feb-2025 14:52:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/settings.php(7): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(69): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:55:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/settings.php(7): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(69): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:56:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:56:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:56:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:57:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 14:57:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/vendors.php(9): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(88): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[17-Feb-2025 15:40:43 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/vendors.php on line 3
+[17-Feb-2025 15:42:55 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 32
+[17-Feb-2025 15:42:55 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 32
+[17-Feb-2025 15:43:23 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 32
+[17-Feb-2025 15:43:23 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 32
+[17-Feb-2025 15:52:16 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[17-Feb-2025 15:52:16 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[17-Feb-2025 15:52:33 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[17-Feb-2025 15:52:33 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[17-Feb-2025 15:53:03 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[17-Feb-2025 15:53:03 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 04:35:13 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 04:35:13 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 04:36:41 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 04:36:41 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 07:18:28 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/my_vendor.php on line 3
+[18-Feb-2025 07:26:29 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/my_vendor.php on line 3
+[18-Feb-2025 07:34:21 UTC] PHP Warning:  Undefined array key "last_name" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 07:34:21 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 33
+[18-Feb-2025 08:47:07 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/my_vendor.php on line 3
+[18-Feb-2025 08:48:02 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/settings.php on line 3
+[18-Feb-2025 08:48:02 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/my_vendor.php on line 3
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:27:25 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:28:06 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:15 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[18-Feb-2025 09:29:35 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[21-Feb-2025 00:08:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[21-Feb-2025 04:56:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[21-Feb-2025 14:27:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[21-Feb-2025 14:27:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[24-Feb-2025 05:51:27 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/admn_edit_business_type.php on line 3
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:37:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:41:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 99
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 100
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 105
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 106
+[25-Feb-2025 18:47:09 UTC] PHP Warning:  Undefined variable $isApproved in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 107
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:50:37 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:05 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:16 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[25-Feb-2025 18:51:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:30:45 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:31:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 03:39:10 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:44:27 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 04:45:28 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 05:31:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:33:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:33:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:35:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:37:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:38:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:44:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:45:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:47:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:50:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:51:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:52:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:52:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 05:58:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 06:00:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 06:02:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 06:02:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 06:06:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 06:06:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 06:06:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 08:40:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 10:05:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 10:39:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 10:39:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 13:06:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 14:43:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 14:57:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 14:58:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:03:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:21:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:28:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:29:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:34:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:41:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:41:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:41:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:41:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:41:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:42:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:43:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:44:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:45:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:46:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:47:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:50:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:51:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:52:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:53:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:54:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:55:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:56:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:57:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:58:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 15:59:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:00:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:01:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:05:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:05:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:06:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:07:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:08:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:09:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:10:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:11:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:13:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:14:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:15:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:16:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:17:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:18:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:19:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:20:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:21:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:22:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:23:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:24:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:25:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:26:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:27:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:28:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:29:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:30:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:31:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:33:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:34:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:35:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:36:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:37:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:38:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:39:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:40:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:41:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:42:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:43:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:44:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:45:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:46:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:47:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:48:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:49:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:50:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:50:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:51:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:53:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:54:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:55:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:56:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 16:57:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:46:04 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:48:38 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:09 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:21 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:50:37 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/admn_edit_business_type.php on line 3
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 17:56:14 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:07:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:08:55 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:09:12 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:15:33 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:16:07 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:22:19 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[26-Feb-2025 18:24:40 UTC] PHP Warning:  Undefined array key "business_type_name" in /home/eyewitne/portal.dealshub.co.ke/my_categories.php on line 90
+[27-Feb-2025 08:18:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[27-Feb-2025 08:18:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[27-Feb-2025 13:33:35 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/admn_edit_business_type.php on line 3
+[28-Feb-2025 05:48:18 UTC] PHP Warning:  Undefined array key "vid" in /home/eyewitne/portal.dealshub.co.ke/my_offers.php on line 3
+[28-Feb-2025 10:11:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[28-Feb-2025 10:11:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[28-Feb-2025 10:11:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[28-Feb-2025 16:14:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[28-Feb-2025 16:14:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[28-Feb-2025 16:14:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[28-Feb-2025 18:20:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[01-Mar-2025 14:14:21 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=9333 in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[01-Mar-2025 14:14:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[01-Mar-2025 14:14:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[01-Mar-2025 14:14:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[01-Mar-2025 14:14:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[02-Mar-2025 04:58:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
+[02-Mar-2025 04:58:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php:6
+Stack trace:
+#0 /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php(6): mysqli_connect('127.0.0.1', 'eyewitne_deals', 'oYp6^tkSa8hc', 'eyewitne_deals')
+#1 /home/eyewitne/portal.dealshub.co.ke/includes/data.php(2): include('/home/eyewitne/...')
+#2 /home/eyewitne/portal.dealshub.co.ke/auth.php(3): include('/home/eyewitne/...')
+#3 /home/eyewitne/portal.dealshub.co.ke/index.php(163): require('/home/eyewitne/...')
+#4 {main}
+  thrown in /home/eyewitne/portal.dealshub.co.ke/includes/dbconnect.php on line 6
