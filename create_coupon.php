@@ -75,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     <form class="theme-form" method="POST">
                                         <div class="row">
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Category</label>
+                                                <label class="form-label">Category <span class="text-danger">*</span></label>
                                                 <select name="category_id" class="form-control" required>
                                                     <?php foreach ($categories as $category): ?>
                                                         <option value="<?= $category['id'] ?>"><?= htmlspecialchars($category['name']) ?></option>
@@ -83,7 +83,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                 </select>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Subcategory</label>
+                                                <label class="form-label">Subcategory <span class="text-danger">*</span></label>
                                                 <select name="subcategory_id" class="form-control">
                                                     <option value="">Select Subcategory</option>
                                                     <?php foreach ($sub_categories as $sub_category): ?>
@@ -92,32 +92,32 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                 </select>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Title</label>
+                                                <label class="form-label">Title <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="text" name="title" required>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Coupon Code</label>
+                                                <label class="form-label">Coupon Code <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="text" name="coupon_code" required>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Description</label>
+                                                <label class="form-label">Description <span class="text-danger">*</span></label>
                                                 <textarea class="form-control" name="description"></textarea>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Discount Percentage</label>
-                                                <input class="form-control" type="number" step="0.01" name="discount_percentage" required>
+                                                <label class="form-label">Discount Percentage <span class="text-danger">*</span></label>
+                                                <input class="form-control" type="number" step="0.01" name="discount_percentage" required value="1">
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Start Date</label>
+                                                <label class="form-label">Start Date <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="date" name="start_date" required>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">End Date</label>
+                                                <label class="form-label">End Date <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="date" name="valid_until" required>
                                             </div>
                                            
                                             <div class="col-12 text-end">
-                                                <button class="btn btn-primary" type="submit">Create Coupon</button>
+                                                <button class="btn btn-primary" type="submit">Create Coupon </button>
                                             </div>
                                         </div>
                                     </form>

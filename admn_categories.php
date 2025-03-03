@@ -6,6 +6,8 @@ if(!isset($vid) || $vid===null || $vid===""){
 }
 include("includes/data.php");
 $categories = getCategories();
+// print_r($categories);
+// exit;
 
 if (isset($_GET['del_id'])) {
     $cat_id = base64_decode($_GET['del_id']);

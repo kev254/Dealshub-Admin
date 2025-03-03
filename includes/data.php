@@ -103,7 +103,7 @@ function getAdmins() {
  */
 function getSubCategories() {
     global $conn;
-    $stmt = $conn->prepare("SELECT sb.id, sb.name, sb.created_at, c.name as cat_name, sb.is_approved, sb.vendor_id FROM sub_categories sb JOIN categories c ON sb.category_id=c.id ");
+    $stmt = $conn->prepare("SELECT sb.id, sb.name, sb.created_at, c.name as cat_name, sb.is_approved, sb.vendor_id FROM sub_categories sb JOIN categories c ON sb.category_id=c.id  ORDER BY sb.id DESC");
     // $stmt->bind_param("i", $category_id);
     $stmt->execute();
     $result = $stmt->get_result();

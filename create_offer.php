@@ -105,7 +105,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     <form class="theme-form" method="POST" enctype="multipart/form-data">
                                         <div class="row">
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Business type</label>
+                                                <label class="form-label">Business type <span class="text-danger">*</span></label>
                                                 <select name="category_id" class="form-control" required>
                                                     <option>--Select Business Type--</option>
                                                     <?php foreach ($bus_types as $bus_type): ?>
@@ -115,25 +115,25 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                             </div>
                                             
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Title</label>
+                                                <label class="form-label">Title <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="text" name="title" required>
                                             </div>
                                             
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Description</label>
+                                                <label class="form-label">Description <span class="text-danger">*</span></label>
                                                 <textarea class="form-control" name="description"></textarea>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">Start Date</label>
+                                                <label class="form-label">Start Date <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="date" name="start_date" required>
                                             </div>
                                             <div class="col-md-6 mb-4">
-                                                <label class="form-label">End Date</label>
+                                                <label class="form-label">End Date <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="date" name="valid_until" required>
                                             </div>
                                             
                                             <div class="col-md-12 mb-4">
-                                                <label class="form-label">Flyer Images (Multiple)</label>
+                                                <span class="form-label">Flyer Images (Multiple) <span class="text-danger">*</span></label>
                                                 <input class="form-control" type="file" name="flyer_path[]" accept="image/*" multiple required>
                                                 <small class="text-danger">Recommended size: 1440x2352 pixels</small>
                                                 <div id="preview" class="mt-2"></div>
